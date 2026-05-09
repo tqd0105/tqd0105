@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://bit.ly/tqd0105_porfolio](https://bit.ly/tqd0105_porfolio)**
 
-- 📄 Know about my experiences **[https://bit.ly/tqd0105_CV](https://bit.ly/tqd0105_CV)**
+- 📄 Know about my experiences **[https://bit.ly/tqd0105_CV](https://bit.ly/tqd0105_MyCV)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
