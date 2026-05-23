@@ -20,8 +20,6 @@
 
 - 👨‍💻 All of my projects are available at **[https://bit.ly/tqd0105_porfolio](https://bit.ly/tqd0105_porfolio)**
 
-- 📄 Know about my experiences **[https://bit.ly/tqd0105_CV](https://bit.ly/tqd0105_MyCV)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/tqd0105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tqd0105" height="30" width="40" /></a>
