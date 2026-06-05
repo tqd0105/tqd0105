@@ -1,3 +1,5 @@
+<img width="2830" height="1263" alt="image" src="https://github.com/user-attachments/assets/18635905-b854-47ad-8b2d-b0e17dfdf404" />
+
 # Hi 👋, I'm Trần Quang Dũng
 
 ## MY DAY: Code - Build - Improve - Repeat
