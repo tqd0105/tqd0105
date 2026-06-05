@@ -1,4 +1,4 @@
-<img width="2830" height="1263" alt="image" src="https://github.com/user-attachments/assets/18635905-b854-47ad-8b2d-b0e17dfdf404" />
+<img width="2695" height="896" alt="image" src="https://github.com/user-attachments/assets/536dd8ac-cd48-4e44-bd0f-d3b5f2227f95" />
 
 # Hi 👋, I'm Trần Quang Dũng
 
