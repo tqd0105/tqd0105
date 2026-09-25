@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://facebook.com/tqd0105" target="blank"><img src="https://img.shields.io/twitter/follow/tqd0105?logo=facebook&style=for-the-badge" alt="tqd0105" /></a> </p>
 
-- 🔭 I'm currently working on **Building end-to-end web systems — from clean UI to secure and scalable backend services.**
+- 🔭 I'm currently working on **Building end-to-end web applications — from intuitive UIs to secure backend services.**
 
-- 🌱 I'm currently learning **Advanced TypeScript patterns, system design fundamentals, and performance optimization in React & Node.js.**
+- 🌱 I'm currently learning **Advanced TypeScript patterns, system design fundamentals, and performance optimization for React & Node.js.**
 
-- 👯 I'm looking to collaborate on **Practical web projects that solve real-world problems, especially in education or productivity tools.**
+- 👯 I'm looking to collaborate on **Practical web projects that solve real-world problems, especially in education, productivity, and e-commerce.**
 
-- 🤝 I'm looking for help with **Improving system architecture decisions and writing cleaner, more maintainable code.**
+- 🤝 I'm looking to improve **System architecture, code quality, and building maintainable software at scale.**
 
-- 💬 Ask me about **TypeScript, NextJS, React, ExpressJS, Debian, Docker, RESTful APIs, JWT authentication, database design.**
+- 💬 Ask me about **TypeScript, Next.js, React, Express.js, PostgreSQL, RESTful APIs, JWT authentication, RBAC, and database design.**
 
 - 📫 How to reach me **tqd0105@gmail.com**
 
