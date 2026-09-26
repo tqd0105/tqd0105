@@ -170,7 +170,7 @@ An automated biometric attendance system exploring real-time facial recognition,
 
 ---
 
-## 🧪 Experiments & Side Projects
+## 🧪 Side Projects
 
 > A collection of smaller builds exploring computer vision, real-time communication, game logic, and frontend engineering.
 
