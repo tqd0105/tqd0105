@@ -5,6 +5,14 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 
+  <a href="https://zalo.me/0779461536" target="_blank">
+    <img
+      src="./zalo.png"
+      alt="Zalo"
+      height="28"
+    />
+  </a>
+
   <a href="./TRANQUANGDUNG_FULLSTACKDEV_EN.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
   </a>
