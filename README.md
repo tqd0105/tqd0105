@@ -38,7 +38,7 @@ I enjoy understanding how things work behind the interface — especially **API 
 
 ## ⚡ MY DAY — Code · Build · Improve · Repeat
 
-> **Code → Build → Learn → Refactor → Repeat**
+> **Think → Build → Challenge → Verify**
 
 **01 — Code**  
 React · Next.js · TypeScript · Node.js · PostgreSQL
