@@ -36,24 +36,24 @@ I enjoy understanding how things work behind the interface — especially **API 
 
 ---
 
-## ⚡ MY DAY — Code · Build · Improve · Repeat
+## ⚡ MY DAY — Think → Plan → Build → Test → Reflect
 
-> **Think → Build → Challenge → Verify**
+### 🤝 How I Work with AI
 
-**01 — Code**  
-React · Next.js · TypeScript · Node.js · PostgreSQL
+I use AI as a **Technical Mentor and Senior Software Engineer**, not just a code generator.
 
-**02 — Build**  
-Turning ideas into practical, user-focused web products.
+My goal is to build better software while continuously improving my engineering skills.
 
-**03 — Learn**  
-System design · Performance · Security · Engineering practices.
+- **Analyze First** — Clarify requirements, inspect the existing codebase, and identify the root cause before making changes.
+- **Think Before Coding** — Explore implementation strategies, trade-offs, and design decisions before writing code.
+- **Learn by Solving** — Tackle meaningful technical challenges independently, using AI to guide my reasoning rather than replace it.
+- **Build with Purpose** — Automate repetitive tasks and boilerplate while keeping architectural decisions and core logic intentional.
+- **Validate and Improve** — Test edge cases, review implementation quality, and explore more advanced solutions.
+- **Keep Growing** — Focus on understanding the *why* behind decisions, not just getting things to work.
 
-**04 — Improve**  
-Refactoring · Debugging · Clean architecture.
+**My workflow:** `Think → Plan → Build → Test → Reflect`
 
-**05 — Repeat**  
-Build something. Break something. Understand it. Make it better.
+> My goal is not to write code faster with AI, but to become an engineer who can design, debug, and defend better technical decisions.
 
 ---
 
