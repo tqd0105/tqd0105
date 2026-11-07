@@ -76,7 +76,7 @@ My goal is to build better software while continuously improving my engineering 
 
 **Full-Stack E-commerce Platform**
 
-A modern e-commerce platform developed during my internship at **Royal Solution**, covering customer-facing shopping experiences and administrative workflows.
+Developed during my internship at **Royal Solution**, featuring customer-facing shopping experiences and a comprehensive admin management system.
 
 **Technical Focus**
 
@@ -84,12 +84,12 @@ A modern e-commerce platform developed during my internship at **Royal Solution*
 `PostgreSQL` `RBAC` `RLS` `Realtime`
 
 **Built**
-- Service Layer architecture for business logic separation
-- Supabase Auth, Google OAuth, RBAC & RLS
-- Product, category, order, user & marketing management
-- Guest cart synchronization & checkout workflow
-- Real-time synchronization with Supabase Realtime
-- Bank payment webhook integration
+- Modular Service Layer architecture with 24 service modules
+- PostgreSQL database with triggers, stored procedures & RLS
+- Product, inventory, order & customer management
+- Cart, checkout, coupons & customer loyalty system
+- VietQR payment integration with automated bank transaction reconciliation
+- Admin dashboard for revenue, orders & sales analytics
 
 **[🌐 Live Demo](https://luxecommerce-shop.vercel.app/) · [💻 Source Code](https://github.com/tqd0105/luxecommerce-platform)**
 
@@ -101,20 +101,21 @@ A modern e-commerce platform developed during my internship at **Royal Solution*
 
 **Student Management System**
 
-A full-stack student management platform combining backend architecture, academic workflows, and QR-based attendance systems.
+A full-stack academic management platform featuring role-based access control, intelligent attendance monitoring, and cloud-based file management.
 
 **Technical Focus**
 
 `Next.js` `Node.js` `Express.js`  
-`TypeScript` `PostgreSQL` `Prisma`
+`TypeScript` `PostgreSQL` `Prisma` `AWS`
 
 **Built**
-- Layered REST API architecture
-- Relational PostgreSQL database with Prisma ORM
+- Layered REST API architecture with Express.js & TypeScript
+- Relational database design using PostgreSQL & Prisma ORM
 - JWT authentication, Google OAuth 2.0 & RBAC
-- Browser-based QR attendance using Canvas & jsQR
-- Enrollment validation & duplicate prevention
-- Academic workflows for scores, assignments & attendance
+- Dynamic QR attendance with device fingerprinting, GPS geofencing & IP verification
+- Academic workflows: gradebook, assignments, scheduling & tuition management
+- AWS Serverless file management with S3, Lambda & CloudFront
+- Infrastructure automation using Terraform & GitHub Actions
 
 **[🌐 Live Demo](https://sms-fe-lovat.vercel.app/) · [💻 Source Code](https://github.com/tqd0105/student-management-system)**
 
