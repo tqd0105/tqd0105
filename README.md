@@ -13,10 +13,6 @@
     />
   </a>
 
-  <a href="./TRANQUANGDUNG_FULLSTACKDEV_EN.pdf">
-    <img src="https://img.shields.io/badge/Download%20CV-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
-  </a>
-
   <a href="mailto:tqd0105@gmail.com">
     <img src="https://img.shields.io/badge/Send%20Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/>
   </a>
